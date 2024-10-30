@@ -1,6 +1,6 @@
 # @gietmanic/finom-api-client
 
-[![npm version](https://badge.fury.io/js/@gietmanic%2Ffinom-api-client.svg)](https://www.npmjs.com/package/@danielgtmn/finom-api-client)
+[![npm version](https://badge.fury.io/js/@gietmanic%2Ffinom-api-client.svg)](https://www.npmjs.com/package/@gietmanic/finom-api-client)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
