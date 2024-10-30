@@ -35,12 +35,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielgtmn/finom-api-client.git"
+    "url": "git+https://github.com/gietmanic/finom-api-client.git"
   },
   "bugs": {
-    "url": "https://github.com/danielgtmn/finom-api-client/issues"
+    "url": "https://github.com/gietmanic/finom-api-client/issues"
   },
-  "homepage": "https://github.com/danielgtmn/finom-api-client#readme",
+  "homepage": "https://github.com/gietmanic/finom-api-client#readme",
   "dependencies": {
     "axios": "^1.6.0"
   },
