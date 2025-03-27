@@ -1,6 +1,6 @@
 {
-  "name": "@gietmanic/finom-api-client",
-  "version": "0.0.2",
+  "name": "@danielgtmn/finom-api-client",
+  "version": "0.0.3",
   "description": "Node.js client for the Finom Public API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gietmanic/finom-api-client.git"
+    "url": "git+https://github.com/danielgtmn/finom-api-client.git"
   },
   "bugs": {
-    "url": "https://github.com/gietmanic/finom-api-client/issues"
+    "url": "https://github.com/danielgtmn/finom-api-client/issues"
   },
-  "homepage": "https://github.com/gietmanic/finom-api-client#readme",
+  "homepage": "https://github.com/danielgtmn/finom-api-client#readme",
   "dependencies": {
     "axios": "^1.8.4"
   },
