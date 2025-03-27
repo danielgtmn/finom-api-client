@@ -1,6 +1,6 @@
-# @gietmanic/finom-api-client
+# @danielgtmn/finom-api-client
 
-[![npm version](https://badge.fury.io/js/@gietmanic%2Ffinom-api-client.svg)](https://www.npmjs.com/package/@gietmanic/finom-api-client)
+[![npm version](https://badge.fury.io/js/@danielgtmn%2Ffinom-api-client.svg)](https://www.npmjs.com/package/@danielgtmn/finom-api-client)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
@@ -15,7 +15,7 @@ npm install @danielgtmn/finom-api-client
 ## 🚀 Quick Start
 
 ```typescript
-import FinomClient from '@gietmanic/finom-api-client';
+import FinomClient from '@danielgtmn/finom-api-client';
 
 // Initialize the client
 const client = new FinomClient('YOUR_API_TOKEN');
@@ -148,5 +148,5 @@ try {
 
 ## 📫 Support
 
-- Create a [GitHub issue](https://github.com/gietmanic/finom-api-client/issues) for bug reports and feature requests
-- Follow [@gietmanic](https://github.com/gietmanic) for announcements
+- Create a [GitHub issue](https://github.com/danielgtmn/finom-api-client/issues) for bug reports and feature requests
+- Follow [@danielgtmn](https://github.com/danielgtmn) for announcements
