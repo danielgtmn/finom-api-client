@@ -1,6 +1,6 @@
 {
   "name": "@danielgtmn/finom-api-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node.js client for the Finom Public API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
